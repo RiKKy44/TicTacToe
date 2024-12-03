@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "computer.h": "c",
+        "player.h": "c",
+        "stdio.h": "c",
+        "board.h": "c"
+    }
+}
